@@ -1,0 +1,12 @@
+{
+	"id": 2,
+	"name": "Ravi",
+	"email": "ravi10@gmail.com",
+	"phone": "987654321",
+	"city": "Hyderebad",
+	"state": "Telangana",
+	"country": "India",
+	"organization": "Capgemini",
+	"jobProfile": "Software Developer",
+	"additionalInfo": "Buys Products Rarely"
+}
